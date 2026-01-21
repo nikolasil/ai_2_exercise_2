@@ -66,7 +66,7 @@ Switching from standard SGD to **ASGD** provided a smoother optimization landsca
 
 ---
 ## 🎓 Academic Context
-Developed as part of the Artificial Intelligence I course at the National and Kapodistrian University of Athens (UoA). Based on the UC Berkeley CS188 framework.
+Developed as part of the Artificial Intelligence II course at the National and Kapodistrian University of Athens (UoA). Based on the UC Berkeley CS188 framework.
 
 ## 🚦 Setup & Usage
 ```bash
@@ -75,3 +75,4 @@ pip install torch pandas scikit-learn nltk numpy matplotlib
 
 # Execute the neural network trainer
 python main.py
+
